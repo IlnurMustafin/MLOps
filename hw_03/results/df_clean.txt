@@ -1,0 +1,287 @@
+(base) ilnurmustafin@Mac ~ % yc storage s3api list-objects-v2 --bucket otus-mlops-ilnur-data --prefix cleaned_fin/
+contents:
+  - key: cleaned_fin/2019-08-22.parquet/_SUCCESS
+    last_modified: "2026-08-26T20:30:22.331Z"
+    etag: '"27a641b076f219c97fc2a8fa6dfc9a78"'
+    size: "15595"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00000-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.359Z"
+    etag: '"b272dc7e6229d1208fb554984914551e"'
+    size: "29879623"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00001-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.353Z"
+    etag: '"9f977e15c245dd86e9873bef1706920b"'
+    size: "29898375"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00002-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.349Z"
+    etag: '"f4f63de4cabe98fd08c8c40ff7bd8326"'
+    size: "29894834"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00003-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.351Z"
+    etag: '"fe37b1d681cdcabd984073a8efec24d5"'
+    size: "29920410"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00004-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.347Z"
+    etag: '"ec6e70015e67148db24b69c4208964b2"'
+    size: "29904561"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00005-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.358Z"
+    etag: '"15cf9c39733af7db283446f0fcfea83b"'
+    size: "29826712"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00006-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.359Z"
+    etag: '"911bf0e5d3bbbfa985528c1152e88c3d"'
+    size: "29891569"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00007-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.360Z"
+    etag: '"dd02188c36bd9cb81abf6d5c5bc0edac"'
+    size: "29873024"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00008-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.497Z"
+    etag: '"fcdee0a803fc64afc25778afead7d357"'
+    size: "29868689"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00009-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.500Z"
+    etag: '"bd2f45f110e9d2163a47d99dc6c088d8"'
+    size: "29917542"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00010-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.549Z"
+    etag: '"7191ef3e731e924d4eea74ceb42a1cd9"'
+    size: "29923828"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00011-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.545Z"
+    etag: '"faabec3331dd2b83acf77d11977b3e1e"'
+    size: "29869610"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00012-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.546Z"
+    etag: '"f708d62cc38462c372b00fab4a8e6854"'
+    size: "29885138"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00013-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.548Z"
+    etag: '"0c394adb3fd573d8521ce7eea00169bb"'
+    size: "29877658"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00014-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.597Z"
+    etag: '"bb423caf54f40b19b1478b4dc79babdc"'
+    size: "29879151"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00015-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.530Z"
+    etag: '"bf33068e55fb134ffc96f5263152a066"'
+    size: "29871973"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00016-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.751Z"
+    etag: '"74d25c7d52fab2e39be72a3a8a3d7cb6"'
+    size: "29882578"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00017-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.774Z"
+    etag: '"4ef162ee6c5b03a0de0af3e6af1b4c58"'
+    size: "29859491"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00018-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.846Z"
+    etag: '"c4da74877d8a793b61d23b8c2db036a5"'
+    size: "29843938"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00019-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.827Z"
+    etag: '"1452a8cb6f77c254f2648e0910d2c3af"'
+    size: "29864764"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00020-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.832Z"
+    etag: '"45c809f7b3515815270c3f9ac961d2de"'
+    size: "29873964"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00021-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.848Z"
+    etag: '"93ef437a241b69d467d594c4b2014a78"'
+    size: "29867068"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00022-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.841Z"
+    etag: '"51c0ca114a65a8360f6c65e7391c287c"'
+    size: "29880245"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00023-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.848Z"
+    etag: '"59d99c38c9c2ec36c9536d017b5dc335"'
+    size: "29898689"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00024-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.920Z"
+    etag: '"960e2e4058b46766878f2fcaec168632"'
+    size: "29890088"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00025-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:21.919Z"
+    etag: '"254dca039ee7aab8ed02ede19d032066"'
+    size: "29872517"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00026-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.009Z"
+    etag: '"7db06d35880b5176fc4186270e5b49ad"'
+    size: "29842361"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00027-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.083Z"
+    etag: '"e862437c7d55c0a4d0a1949795b068ed"'
+    size: "29881004"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00028-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.056Z"
+    etag: '"81f625a2e447aec68c11c7ad98f3096c"'
+    size: "29896313"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00029-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.010Z"
+    etag: '"7c75a5b7980ab19eedde00dac7f23a3c"'
+    size: "29846402"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00030-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.088Z"
+    etag: '"069aff994ba5001faf0a9ab9dfe46d6c"'
+    size: "29907415"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00031-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.077Z"
+    etag: '"cf0009392a2190e8f20ca6125983eca5"'
+    size: "29851936"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00032-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.128Z"
+    etag: '"7f0c21a028ace332695378a25381814a"'
+    size: "29839451"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+  - key: cleaned_fin/2019-08-22.parquet/part-00033-72542ef0-2977-4e80-99fe-8ba79396b8eb-c000.snappy.parquet
+    last_modified: "2026-08-26T20:30:22.131Z"
+    etag: '"ae3ec3dd95d3fc24203d0f1f8fb50f1d"'
+    size: "10046158"
+    owner:
+      id: ajep3gshld87bul00u57
+      display_name: ajep3gshld87bul00u57
+    storage_class: STANDARD
+name: otus-mlops-ilnur-data
+prefix: cleaned_fin/
+max_keys: "1000"
+key_count: "35"
+request_id: 8c46d2853d2b4856
