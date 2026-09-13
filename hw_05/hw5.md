@@ -51,7 +51,7 @@ DAG-файлы → S3-бакет → DAG Processor → Scheduler → Worker → 
 
 ### 1.4 Terraform-конфигурация
 
-Полный Terraform-скрипт находится в файле [`airflow.tf`](./hw_05/airflow/airflow.tf).
+Полный Terraform-скрипт находится в файле [`airflow.tf`](airflow/airflow.tf).
 
 
 **Ключевые ресурсы:**
