@@ -307,9 +307,9 @@ cluster_id="{{ ti.xcom_pull(task_ids='dp-cluster-create-task', key='cluster_id')
 
 | Файл | Путь в репозитории | Назначение |
 |------|-------------------|------------|
-| DAG | [`hw_05/airflow/dags/pipeline.py`](./hw_05/airflow/dags/pipeline.py) | Описание DAG и всех задач |
-| PySpark-скрипт | [`hw_05/airflow/scripts/pyspark_clean.py`](./hw_05/airflow/scripts/pyspark_clean.py) | Скрипт очистки данных |
-| Terraform | [`hw_05/airflow/airflow.tf`](./hw_05/airflow/airflow.tf) | Конфигурация инфраструктуры Airflow |
+| DAG | [`hw_05/airflow/dags/pipeline.py`](airflow/dags/pipeline.py) | Описание DAG и всех задач |
+| PySpark-скрипт | [`hw_05/airflow/scripts/pyspark_clean.py`](airflow/scripts/pyspark_clean.py) | Скрипт очистки данных |
+| Terraform | [`hw_05/airflow/airflow.tf`](airflow/airflow.tf) | Конфигурация инфраструктуры Airflow |
 
 ---
 
@@ -388,7 +388,7 @@ s3cmd put pyspark_clean.py s3://airflow-dags-ajehnmi8jhfsm7538lot/scripts/hw5/py
 
 Скриншот структуры DAG:
 
-[`Структура DAG-а`](./hw_05/img/dags_structure.png).
+[`Структура DAG-а`](img/dags_structure.png).
 
 На скриншоте видно:
 
@@ -408,7 +408,7 @@ DAG был запущен по расписанию (каждые 30 минут)
 
 Скриншот успешных запусков:
 
-[`AIRFLOW-UI`](./hw_05/img/dairflow_UI).
+[`AIRFLOW-UI`](img/dairflow_UI).
 
 На скриншоте видно:
 
@@ -430,7 +430,7 @@ airflow-dags-ajehnmi8jhfsm7538lot/output/hw5/
 ```
 Скриншот Parquet-файлов в бакете:
 
-[`PARQUETS`](./hw_05/img/parquets_in_bucket.png).
+[`PARQUETS`](img/parquets_in_bucket.png).
 
 
 На скриншоте видно:
